@@ -236,19 +236,19 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {100096055},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[bumper
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : kiarash_gh14
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ  be zodi
+   ߔࠀ   be zodi
+   ߔࠀ    be zodi
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -348,22 +348,22 @@ Banhammer :
 
 Help For Banhammer دستوراتی برای کنترل گروه
 
-!Kick @UserName or ID 
+K @UserName or ID 
 شخصی را از گروه حذف کنید . همچنین با ریپلی هم میشه
 
-!Ban @UserName or ID
+B @UserName or ID
 برای بن کردن شخص اسفاده میشود . با ریپلی هم میشه
 
 
-!Unban @UserName
+Un @UserName
 برای آنبن کردن شخصی استفاده میشود . همچنین با ریپلی هم میشه
 
 For Admins :
 
-!banall ID
+bb ID
 برای بن گلوبال کردن از تمامی گروه هاست باید ای دی بدین با ریپلی هم میشه
 
-!unbanall ID
+unbb ID
 برای آنبن کردن استفاده میشود ولی فقط با ای دی میشود
 
 〰〰〰〰〰〰〰〰〰〰
